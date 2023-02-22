@@ -30,6 +30,5 @@ namespace APIDotNet7.Controllers
 			.ToArray();
 		}
 
-
 	}
 }
